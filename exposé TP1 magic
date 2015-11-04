@@ -1,17 +1,63 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<meta charset= » utf-8» />
+		<meta charset = "utf-8" />
 	<title> Magic, le jeu mieux que yu-gi-oh </title>
-
+	<link rel="stylesheet" href="style.css"/>
+	<style type="text/css">
+		body {
+			color: red;
+			background-color:#ffffff }
+	</style>
 	</head>
 
-	<body>
-		<title> Magic, ou la théorie du bout de carton </title>
+	<body LEFTMARGIN="25" RIGHTMARGIN="25">
+		<h1> Magic, ou la théorie du bout de carton </h1>
 		<p> <br />  </p>
 		<p> <br />  </p>
+		<p> Selon une pratique populaire, des millions de gens achètent à prix d'or des bouts de cartons dons la valeur est largement supérieur à l'encre utilisé.
+<br>Par exemple, le <em> <strong> <a href="http://www.magic-ville.com/fr/carte?ref=abu018"> Lotus noir </a> </strong> </em>  est une carte d'une valeur supérieur a <strong> <mark> 6000 euros </strong> </mark> .
+		 <p>
+<CENTER>
+<img src="http://www.magiccorporation.com/scan/alpha/black_lotus.jpg">
+</image></CENTER>
 		<p> <br />  </p>
-		<p> Selon une pratique populaire, des millions de gens achetent a prix d'or des bouts de cartons dons la valeur est largement supérieur a l'encre utilisé.
+		<h2> je sais plus trop quoi dire </h2>
+		<p> <br /> Passé ce petit moment d'extase, l'inspiration me manque. Il me tarde de partir vers chez moi, ou une chatte aimante, chaude et avide de croquettes m'attend. Je vais donc dire des choses aléatoires:
+ </p>
+<ul>
+	<li>un castor, pas trop fort 	</li>
+	<li>des pissenlits, trop joli 	</li>
+
+	<li>un cheval, pas trop mal 	</li>
+
+	<li>un kiwi, tout pourri 	</li>
+
+	<li>un cator, pas trop fort	</li>
+
+	<li>un pingouin, pas malin	</li>
+
+	<li>un castor, pas trop fort 	</li>
+
+	<li>un marsouin, sur un pingouin <ul>
+
+					<li>pas malin 	     </li>
+					<li> sur un marsouin </li>
+					</ul> 
+					</li>
+	<li> un ara, tout cracra 	</li>
+					</ul>
+<h3> Un désespoir de plus en plus poussé </h3>
+<p> <br />
+Suite a une vision du texte de mon voisin, je me sens poussé par la priorité de tenir encore une heure dans la rédaction de ce sujet des plus important qu'est le [...]
+ <br />  C'est ainsi que je conclurais ce rapport, par "soyeux heureux".
+  </p>
+<p> <br />  </p>
+<p> <br />  </p>
+<p> <br />  </p>
+<bgsoundsrc="https://www.youtube.com/watch?v=rMltoD1jCGI" loop=-1>
+<!-- j'aurai essayé-->
+
 
 	</body>
 
