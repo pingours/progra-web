@@ -7,7 +7,10 @@
 	<style type="text/css">
 		body {
 			color: red;
-			background-color:#ffffff }
+			background-image:url(
+http://aws-cf.imdoc.fr/prod/photos/7/9/4/7862794/18832226/big-18832226a9b.jpg?v=11);
+			background-size: cover;
+			 }
 	</style>
 	</head>
 
@@ -16,7 +19,8 @@
 		<p> <br />  </p>
 		<p> <br />  </p>
 		<p> Selon une pratique populaire, des millions de gens achètent à prix d'or des bouts de cartons dons la valeur est largement supérieur à l'encre utilisé.
-<br>Par exemple, le <em> <strong> <a href="http://www.magic-ville.com/fr/carte?ref=abu018"> Lotus noir </a> </strong> </em>  est une carte d'une valeur supérieur a <strong> <mark> 6000 euros </strong> </mark> .
+<br>Par exemple, le <em> <strong> <a href="http://www.magic-ville.com/fr/carte?ref=abu018"> Lotus noir </a> </strong> </em>  est une carte d'une valeur supérieure à <strong> <mark> 6 000 euros </strong> </mark> .
+Suite a la valeur d'une telle carte, on peut se poser la question suivante: pourrait-on développer une économie dont la monnaie serait les cartes ?
 		 <p>
 <CENTER>
 <img src="http://www.magiccorporation.com/scan/alpha/black_lotus.jpg">
